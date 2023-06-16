@@ -1,7 +1,7 @@
 
 # Solidity_Challenges
 
-Iam collecting solidity challenges questions from Calyptus.This will be helpful for many Blockchain, Deb3, Solidity Devs.
+I am collecting solidity challenges questions from Calyptus. This will be helpful for many Blockchain, Web3, and Solidity Devs.
 
 # Hi, I'm Mujahid! 👋
 A Blockchain Evangelist and Web3 Geek
@@ -13,13 +13,13 @@ Blockchain, Smart Contract Development, Solidity.
 
 ## Documentation
 
-=> Coding Questions can be shared into files for example Challenge_1.sol.
+=> Code will be shared into files for example Challenge_1.sol.
 
-=> The solutions will be shared into this "Readme file". 
+=> The solutions will be written at the bottom of the Solidity code with comments. 
 
-=> If you think you have good solution, Please make a PULL REQUEST.
+=> If you think you have a good solution, Please make a PULL REQUEST.
 
- Iam happy to read and add into code file or into readme file.
+ I am happy to read and add to the  Solidity code file.
 
 
 ## 🔗 Links
@@ -27,7 +27,7 @@ Blockchain, Smart Contract Development, Solidity.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujahidshaik/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muja002)
 
-Iam very grateful to connect with you All!
+I am very grateful to connect with you All!
 
 ## Feedback
 
