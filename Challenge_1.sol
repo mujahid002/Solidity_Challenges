@@ -11,9 +11,9 @@ pragma solidity ^0.8.18;
 
 contract Owner{
     address public owner;
-    uint private code;
+    uint256 private code;
 
-    constructor (address _owner, uint _code){
+    constructor (address _owner, uint256 _code){
         owner=_owner;
         code=_code;
     }
@@ -22,7 +22,7 @@ contract Owner{
         return owner;
     }
 
-    function changeOwner(address _owner, uint _code) public {
+    function changeOwner(address _owner, uint256 _code) public {
         require(code==_code, "Incorrect code");
         owner=_owner;
 
@@ -40,9 +40,9 @@ contract Owner{
 pragma solidity ^0.8.18;
 contract Owner {
     address public owner;
-    uint private code;
+    uint256 private code;
 
-    constructor(address _owner, uint _code) {
+    constructor(address _owner, uint256 _code) {
         require(_owner != address(0), "Invalid owner address"); ----Check address cannot be invalid or Undefined 
         owner = _owner;                                         ----we take specific length of code but for this code that's unnecessary
         code = _code;
@@ -57,7 +57,7 @@ contract Owner {
         return owner;
     }
 
-    function changeOwner(address _owner, uint _code) public onlyOwner { ----Access controll by current owner only!
+    function changeOwner(address _owner, uint256 _code) public onlyOwner { ----Access controll by current owner only!
         require(_owner != address(0), "Invalid owner address");
         require(code == _code, "Incorrect code");
         owner = _owner;
