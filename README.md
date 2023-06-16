@@ -1,7 +1,7 @@
 
 # Solidity_Challenges
 
-Iam collecting solidity challenges questions from Calyptus.This will be helpful for many Blockchain, Deb3, Solidity Devs.
+I am collecting solidity challenges questions from Calyptus. This will be helpful for many Blockchain, Web3, and Solidity Devs.
 
 
 ## 🛠 Skills
