@@ -12,13 +12,13 @@ Identify the function that uses less gas and explain why.
 pragma solidity ^0.8.18;
 
 contract Test{
-    uint public a=10;
-    uint public b=20;
+    uint256 public a=10;
+    uint256 public b=20;
 
-    function ramesh() external view returns(uint){
+    function ramesh() external view returns(uint256){
         return a+b;
     }
-    function suresh() external payable returns(uint){
+    function suresh() external payable returns(uint256){
         return a+b;
     }
 }
