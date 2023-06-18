@@ -10,7 +10,7 @@ Identify the function that uses less gas and explain why.
 //SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.18;
-
+ 
 contract Test{
     uint256 public a=10;
     uint256 public b=20;
