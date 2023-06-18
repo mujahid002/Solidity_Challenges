@@ -1,6 +1,6 @@
 /**  
 
-Solidity challenge: #2 
+Solidity challenge: #2
 The following Solidity contract contains two functions "ramesh" and "suresh" 
 that perform the same task, but one of them uses more gas than the other. 
 
