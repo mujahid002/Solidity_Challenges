@@ -7,7 +7,7 @@ Where is the vulnerability in this code?
 
 //SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.18;
+pragma solidity ^0.8.18; 
 
 contract Owner{
     address public owner;
